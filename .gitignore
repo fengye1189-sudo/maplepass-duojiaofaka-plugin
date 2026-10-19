@@ -1,0 +1,16 @@
+# Composer
+/vendor/
+composer.lock
+
+# Configuration with secret keys
+config.php
+
+# Runtime logs
+/logs/
+*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

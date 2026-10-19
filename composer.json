@@ -1,0 +1,36 @@
+{
+  "name": "maplepass/duojiaofaka-plugin",
+  "description": "MaplePass (枫享 AI) 官方发卡系统全自动交付插件 - 适配独角数卡 (DuojiaoFaka) 及各大电商系统",
+  "type": "library",
+  "keywords": [
+    "duojiaofaka",
+    "faka",
+    "maplepass",
+    "chatgpt-plus",
+    "chatgpt-pro",
+    "gemini-pro",
+    "usdt",
+    "reseller-api",
+    "digital-delivery"
+  ],
+  "homepage": "https://maple1189ai.com/api-cooperation",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MaplePass Team",
+      "homepage": "https://maple1189ai.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-hash": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "MaplePass\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
