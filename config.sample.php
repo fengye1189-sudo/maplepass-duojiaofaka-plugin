@@ -37,7 +37,7 @@ return [
         2 => 'chatgpt_100_cl',    // ChatGPT 100 美元档 (智利特惠专线，底价 $93 USDT)
         3 => 'chatgpt_100_ph',    // ChatGPT 100 美元档 (菲律宾卡充，底价 $95 USDT)
         4 => 'gemini_pro_18m',    // Gemini 18个月全功能 + 5TB 网盘 (底价 $3.00 USDT)
-        5 => 'chatgpt_plus_1m',   // ChatGPT Plus 1 个月官方代充
+        5 => 'chatgpt_plus_1m',   // ChatGPT Plus 1 个月官方代充 (底价 $16.70 USDT)
     ],
 
     // -------------------------------------------------------------
