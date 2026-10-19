@@ -33,7 +33,7 @@ return [
     // 在下方将独角数卡的商品 ID 映射到对应的 MaplePass 商品标识
     'product_map' => [
         // 独角数卡商品ID => MaplePass 产品代码
-        1 => 'chatgpt_pro20_ph', // ChatGPT 200 美元档 (菲律宾卡充/Pro 5倍旗舰，底价 $150 USDT)
+        1 => 'chatgpt_pro20_ph', // ChatGPT 200 美元档 (菲律宾卡充/Pro 顶配无限算力，底价 $150 USDT)
         2 => 'chatgpt_100_cl',    // ChatGPT 100 美元档 (智利特惠专线，底价 $93 USDT)
         3 => 'chatgpt_100_ph',    // ChatGPT 100 美元档 (菲律宾卡充，底价 $95 USDT)
         4 => 'gemini_pro_18m',    // Gemini 18个月全功能 + 5TB 网盘 (底价 $3.00 USDT)
